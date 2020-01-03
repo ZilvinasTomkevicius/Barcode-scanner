@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710640873141",
+    "firebase_url": "https://barcodescanner-b9d46.firebaseio.com",
+    "project_id": "barcodescanner-b9d46",
+    "storage_bucket": "barcodescanner-b9d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710640873141:android:8b47d06e1c21048a9158fc",
+        "android_client_info": {
+          "package_name": "app.georentate.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710640873141-ns53105qrq2e0ocalob0lfeaphksil7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.georentate.barcodescanner",
+            "certificate_hash": "fe46d80b4714e64f37ec9aad26cf336836df0028"
+          }
+        },
+        {
+          "client_id": "710640873141-ek2m7drd8ks79h2p01vktbaec4kg9fek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8DxkCGw5iyU6S6R78QbqzWZtsmwpJmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710640873141-ek2m7drd8ks79h2p01vktbaec4kg9fek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

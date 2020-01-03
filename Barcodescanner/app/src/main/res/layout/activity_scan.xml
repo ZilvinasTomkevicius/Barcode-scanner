@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <me.dm7.barcodescanner.zxing.ZXingScannerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scan_view">
+
+    </me.dm7.barcodescanner.zxing.ZXingScannerView>
+
+    <Button
+            android:text="stop scanning"
+            android:textColor="#fff"
+            android:background="@drawable/stop_scanning_button_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/stop_scan_button"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="15dp">
+    </Button>
+</RelativeLayout>
